@@ -1,6 +1,6 @@
 # GitHub repository를 내 컴퓨터 폴더로 내려받기
 
-. 웹브라우저에서 원하는 GitHub의 resository을 찾는다. (아래 글은 https://github.com/generateNscore/e_commerce3을 참조하였으며 windows 기반을 전제로 작성하였다.)
+. 웹브라우저에서 원하는 GitHub의 resository을 찾는다. (아래 글은 https://github.com/generateNscore/e_commerce3을 참조하였으며 windows 사용을 전제로 작성하였다.)
 
 . 아래 화면에 보이는 것처럼 초록색 바탕의 흰색 글씨의 "Code" 버튼을 누르면 나타나는 Repository URL을 복사한다. ![Preview](img\Code.jpg) ![Preview](img\Copy_code.jpg)
 
@@ -14,9 +14,9 @@
 git clone https://github.com new-folder-name
 ```
 
-- 위에서 https://github.com를 앞에서 복사한 repository의 URL으로 대체하며, new-folder-name은 해당 프로젝트 폴더 이름으로 대체한다. 
+- 위에서 "https://github.com" 를 앞에서 복사한 repository URL으로 대체하며, "new-folder-name"은 원하는 프로젝트 폴더 이름으로 대체한다. 
 - 단순한 폴더명은 사용하는 터미널에 표시된 폴더에 해당 폴더를 생성한다.
-- 폴더를 다른 위치로 바꾸고 싶으면 절대 폴더명을 적는다.
+- 다른 위치에 폴더를 생성하고 싶으면 절대 폴더명을 적는다.
 
 . 위 명령어를 입력한 후, Enter-키를 누르면 앞서 지정된 폴더 내에 repository에 들어있는 모든 파일들이 내려받아 저장된다.
 
