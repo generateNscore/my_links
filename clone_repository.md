@@ -10,7 +10,7 @@
 
 . 열린 터미널에 다음 명령어를 입력한다.
 
-```baseh
+```bash
 git clone https://github.com new-folder-name
 ```
 
