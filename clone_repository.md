@@ -15,7 +15,7 @@ git clone https://github.com new-folder-name
 ```
 
 - 위 명령어에서 "https://github.com" 를 앞에서 복사한 repository URL으로 대체하며, "new-folder-name"은 원하는 프로젝트 폴더 이름으로 대체한다. 
-- 단순한 폴더명은 위 터미널에 표시된 폴더에 해당 폴더를 생성한다.
+- 단순한 폴더명은 위 터미널에 표시된 폴더에 해당 폴더를 생성한다. (예를 들어, C:\Users\gram에 원하는 폴더가 생성된다.)
 - 다른 위치에 폴더를 생성하고 싶으면 절대 폴더명을 적는다.
 
 . 위 명령어를 입력한 후, Enter-키를 누르면 앞서 지정된 폴더 내에 repository에 들어있는 모든 파일들이 내려받아 저장된다.
