@@ -4,7 +4,7 @@
 
 . Visual Studio Code를 연다. 상단 메뉴에서 File/Open Folder ...를 선택하여 원하는 폴더를 선택한다. (만약 다른 프로젝트를 작업 중이라면, 앞으로 만들어지는 프로젝트가 열리며 기존 프로젝트는 닫힌다.)
 
-. 빈 VScode workspace에서 조합-키 Ctrl + `` ` `` 을 눌러 터미널(terminal)을 연다. 역음부호 (`` ` ``)는 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
+. 빈 VScode workspace에서 조합-키 Ctrl + `` ` `` 을 눌러 터미널(terminal)을 연다. 억음부호(백틱, back quote) (`` ` ``)는 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
 
 . 프로젝트 가상환경 생성: 열린 터미널에 아래 명령어를 입력하고 Enter-키를 눌러 가상 환경을 만든다.
 - 만약 해당 폴더 내에 /.venv 이름의 폴더가 있다면 먼저 삭제한다.
@@ -33,4 +33,3 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
-
