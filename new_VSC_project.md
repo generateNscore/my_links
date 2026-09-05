@@ -4,7 +4,7 @@
 
 . Visual Studio Code를 연다. 상단 메뉴에서 File/Open Folder ...를 선택하여 원하는 폴더를 선택한다. (만약 다른 프로젝트를 작업 중이라면, 앞으로 만들어지는 프로젝트가 열리며 기존 프로젝트는 닫힌다.)
 
-. 빈 VScode workspace에서 Ctrl+` (Ctrl + \`` or Cmd + ``)을 눌러 터미널(terminal)을 연다. 참고로 `은 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
+. 빈 VScode workspace에서 조합-키 Ctrl + `` ` `` 을 눌러 터미널(terminal)을 연다. 역음부호 (`` ` ``)는 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
 
 . 프로젝트 가상환경 생성: 열린 터미널에 아래 명령어를 입력하고 Enter-키를 눌러 가상 환경을 만든다.
 - 만약 해당 폴더 내에 /.venv 이름의 폴더가 있다면 먼저 삭제한다.
@@ -26,7 +26,7 @@ python -m venv .venv
 
 . (중요) 터미널 창 메뉴판의 오른쪽 부분에 쓰레기 아이콘이 보일 것이다. 마우스를 그 위에 올리면 Kill Terminal의 글이 보일 것이다. 쓰레기 아이콘을 눌러 해당 터미널을 없앤다.
 
-. 이제 조합-키 Ctrl + `을 눌러 새로운 터니널을 열고 아래 그림과 같이 초록색 (.venv) 글자가 적힌 prompt를 확인한다. ![terminal_venv_final](./img/terminal_venv_final.jpg)
+. 이제 조합-키 Ctrl + `` ` ``을 눌러 새로운 터미널을 열고 아래 그림과 같이 초록색 (.venv) 글자가 적힌 prompt를 확인한다. ![terminal_venv_final](./img/terminal_venv_final.jpg)
 
 . 마지막 단계로 프로젝트 폴더에 파일 requirements.txt을 확인한다. 그리고 터미널에 아래 명령어를 실행하여 GitHub에 올리기 직전 프로젝트와 동일한 환경을 만든다.
 
