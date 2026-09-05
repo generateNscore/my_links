@@ -6,7 +6,7 @@
 
 . Visual Studio Code를 연다. 이미 작업 중인 프로젝트가 열려있다면 상단 메뉴에서 File/New Window를 선택하여 아무것도 없는 빈 프로젝트 workspace를 연다. ![new_workspace](./img/new_workspace.jpg)
 
-. 빈 VScode workspace에서 Ctrl+` (Ctrl + \`` or Cmd + ``)을 눌러 터미널(terminal)을 연다. 참고로 `은 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
+. 빈 VScode workspace에서 조합-키 Ctrl + `` ` `` 을 눌러 터미널(terminal)을 연다. 역음부호 (back quote) `` ` ``은 일반적인 따옴표가 아니라, 키보드(windows용) 왼쪽 상단에 위치한 숫자 1 키 왼쪽에 놓여있다 (내 경우) ![1st terminal](./img/terminal_1.jpg)
 
 . 열린 터미널에 다음 명령어를 입력한다.
 
