@@ -21,3 +21,4 @@ git clone https://github.com new-folder-name
 . 위 명령어를 입력한 후, Enter-키를 누르면 앞서 지정된 폴더 내에 repository에 들어있는 모든 파일들이 내려받아 저장된다.
 
 . 폴더 생성 및 파일들이 모두 제대로 저장되었는 지 확인한다.
+. clone 폴더를 Visual Studio Code의 프로젝트로 만든다: [프로젝트 생성](new_VSC_project.md)

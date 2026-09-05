@@ -1,4 +1,4 @@
-# 새로운 Visual Studo Code 프로젝트 만들기
+# 새로운 Visual Studio Code 프로젝트 만들기
 
 아래 글은 GitHub의 repository의 clone으로 폴더를 만들었거나, 기존 프로젝트의 폴더의 복사본을 만들어 아직 Visual Studio Code의 프로젝트가 되지 않았다는 사실은 전제로 하며, windows 사용을 전제로 작성하였다.
 
